@@ -7,8 +7,12 @@
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-3.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-apex--gear--green.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://apex-gear-green.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+<br />
+
+### 🌐 [**Visit Live Storefront: apex-gear-green.vercel.app**](https://apex-gear-green.vercel.app/)
 
 <br />
 
@@ -16,7 +20,7 @@
 
 <br />
 
-[Explore Features](#-key-features) • [Demographic Intelligence](#-demographic-intelligence) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Deployment](#-deployment)
+[🚀 Live Store](https://apex-gear-green.vercel.app/) • [Explore Features](#-key-features) • [Demographic Intelligence](#-demographic-intelligence) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Deployment](#-deployment)
 
 </div>
 
@@ -138,6 +142,10 @@ Open **[http://localhost:3000](http://localhost:3000)** in your browser.
 ---
 
 ## 🚀 Deployment
+
+### 🌐 Live Production Storefront
+ApexGear is live and deployed on Vercel:
+👉 **[https://apex-gear-green.vercel.app/](https://apex-gear-green.vercel.app/)**
 
 ### Deploy to Vercel (1-Click)
 ApexGear is pre-configured with `vercel.json` for client-side routing and serverless Gemini API rewrites:
